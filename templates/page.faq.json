@@ -1,0 +1,98 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design.png",
+        "bg_position": "center-center",
+        "height": "use_screen_one_fifth",
+        "overlay_opacity": 75,
+        "overlay_color": "#000000",
+        "kicker": "",
+        "title": "FAQs",
+        "richtext": "<p>Frequently asked questions<\/p>",
+        "text_align": "align--middle-center",
+        "text_color": "text--invert--primary",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "main": {
+      "type": "page",
+      "settings": {
+        "kicker": "",
+        "show_title": false,
+        "show_content": false,
+        "text_size": 2,
+        "align_text": "text-left",
+        "height": "margin--medium",
+        "width": "wrapper--narrow",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "faq": {
+      "type": "section-faq",
+      "blocks": {
+        "faq-0": {
+          "type": "text",
+          "settings": {
+            "title": "What is included in your nail box?",
+            "content": "<p>Your nail box includes 24 nails that will fit the variety of nail sizes. It also contains a nail file, a cuticle stick, nail glue and nail tabs. <\/p>"
+          }
+        },
+        "faq-1": {
+          "type": "text",
+          "settings": {
+            "title": "How long will the nails stay on?",
+            "content": "<p>By using nail glue, your press-on nails can last between 2-3 weeks depending on your lifestyle. For occasional use, we recommend using the nail tabs for easier remove process. <\/p>"
+          }
+        },
+        "64e7b213-e297-4e74-989f-077c6f8e87e5": {
+          "type": "text",
+          "settings": {
+            "title": "Where are your nails manufactured?",
+            "content": "<p>Our nails are designed in Canada and hand-painted by our lovely skilled nail artists in Vietnam. <\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "text",
+          "settings": {
+            "title": "What materials are your products made out of?",
+            "content": "<p>Our nails are made out of Acrylonitrile Butadiene Styrene (A.K.A ABS Plastic).<\/p><p>Our glue contains Ethyl Cyanoacrylate and Polymethyl Methacrylate.<\/p><p>Nail tabs are made out of Ethylhexyl Acrylate, Polyethylene Terephthalate, and Polyethylene.<\/p>"
+          }
+        },
+        "91058042-19e2-4cf7-b568-1a9c1f6ba5fc": {
+          "type": "text",
+          "settings": {
+            "title": "How do you remove press-on nails?",
+            "content": "<p>If you use nails tabs, simply soak your nails in lukewarm water for 10 seconds, and gently pull it out on the edges. <\/p><p>If you use nails glue, soak your nails in lukewarm water between 5 to 10 minutes, gently pull the edges of the nails. If the nails do not come out right away, please soak your nails in warm water for more. Do not try to pull your press-on nails.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "64e7b213-e297-4e74-989f-077c6f8e87e5",
+        "faq-2",
+        "91058042-19e2-4cf7-b568-1a9c1f6ba5fc"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "text-left",
+        "text_size": 2,
+        "height": "margin--medium",
+        "width": "wrapper--narrow",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "faq"
+  ]
+}

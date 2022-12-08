@@ -1,0 +1,267 @@
+{
+  "sections": {
+    "hero": {
+      "type": "section-hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Capture_One_Catalog0059.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Capture_One_Catalog0059.jpg",
+        "bg_position": "center-center",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 55,
+        "overlay_color": "#000000",
+        "kicker": "Introducing",
+        "title": "Press-on nails",
+        "richtext": "<p>Hand-painted, Reusable, Vegan and Cruelty-free<\/p>",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "View products",
+        "link": "shopify:\/\/collections",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "tabs": {
+      "type": "section-collection-tabs",
+      "blocks": {
+        "bc623969-eb8c-4ef8-ab7c-8d316529f005": {
+          "type": "collection",
+          "settings": {
+            "collection": "dreamy-collection",
+            "title": ""
+          }
+        },
+        "tab-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "wedding-collection",
+            "title": "Wedding Collection"
+          }
+        },
+        "e6aa9b75-cfaf-4f06-a3db-630251b7be49": {
+          "type": "collection",
+          "settings": {
+            "collection": "fall-collection",
+            "title": "Fall Collection"
+          }
+        },
+        "c830275c-34f7-4289-9451-b1766c571294": {
+          "type": "collection",
+          "settings": {
+            "collection": "christmas-collection",
+            "title": "Christmas Collection"
+          }
+        },
+        "tab-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "basic-collection",
+            "title": "Basic Collection"
+          }
+        }
+      },
+      "block_order": [
+        "bc623969-eb8c-4ef8-ab7c-8d316529f005",
+        "tab-1",
+        "e6aa9b75-cfaf-4f06-a3db-630251b7be49",
+        "c830275c-34f7-4289-9451-b1766c571294",
+        "tab-0"
+      ],
+      "settings": {
+        "title": "Featured Collections",
+        "grid": 3,
+        "limit": 6,
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "8059b09b-cf19-4e4a-8add-c9434fb5182e": {
+      "type": "section-video",
+      "settings": {
+        "height": "use_screen_two_thirds",
+        "video_link_bg": "https:\/\/youtu.be\/tuBzkO9zqJ8",
+        "object_position": "center-center",
+        "image": "shopify:\/\/shop_images\/How_to_put_on_press-on_nails_1.png",
+        "bg_position": "center-center",
+        "video_link": "https:\/\/youtu.be\/tuBzkO9zqJ8",
+        "popup_text": "",
+        "kicker": "",
+        "title": "",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "overlay_opacity": 10,
+        "overlay_color": "#000000",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "e279fc76-d1e5-4cd6-aafb-5ac9e45669b3": {
+      "type": "section-hero",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhyManifect5.png",
+        "mobile_image": "shopify:\/\/shop_images\/WhyManifect5_c736a31d-8f05-44ce-852d-291448cde2c4.png",
+        "bg_position": "center-center",
+        "height": "use_image",
+        "overlay_opacity": 0,
+        "overlay_color": "#ffffff",
+        "kicker": "",
+        "title": "",
+        "richtext": "",
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "link_text": "",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn"
+      }
+    },
+    "cbd95c17-c233-437b-bd30-52e278be2be7": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--15669081374860__cbd95c17-c233-437b-bd30-52e278be2be7-1665774115ced50976-0": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "<p>Shop<\/p>",
+            "enable_caps": false,
+            "enable_line": false,
+            "text_size": 5
+          }
+        },
+        "55e89696-a53b-464c-87c6-087bd4636698": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>our looks <\/strong><\/p>",
+            "text_size": 3
+          }
+        },
+        "ef50cc45-89a4-4af5-ae29-766c200c6bf9": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--15669081374860__cbd95c17-c233-437b-bd30-52e278be2be7-1665774115ced50976-0",
+        "55e89696-a53b-464c-87c6-087bd4636698",
+        "ef50cc45-89a4-4af5-ae29-766c200c6bf9"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "height": "margin--small",
+        "width": "wrapper",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "1665773874a74848ba": {
+      "type": "apps",
+      "blocks": {
+        "2f935818-4efa-4947-a572-e3dc724e61fc": {
+          "type": "shopify:\/\/apps\/social-media-feeds\/blocks\/app-block\/16930ea9-fb6e-46ac-90fd-526ff0431478",
+          "disabled": true,
+          "settings": {
+            "tagembed_widget": "68982",
+            "tagembed_widget_position": "center",
+            "tagembed_widget_height": "350",
+            "tagembed_widget_width": 100
+          }
+        },
+        "5449fd8f-6e9d-485d-8409-a8c46afec140": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 30,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "2f935818-4efa-4947-a572-e3dc724e61fc",
+        "5449fd8f-6e9d-485d-8409-a8c46afec140"
+      ],
+      "settings": {
+        "width": "wrapper",
+        "height": "margin--small",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral"
+      }
+    },
+    "product-grid": {
+      "type": "section-collection",
+      "settings": {
+        "title": "Featured Products",
+        "collection": "fall-collection",
+        "grid": 4,
+        "rows": 1,
+        "bg": "palette--light bg--neutral",
+        "show_view_all": true
+      }
+    },
+    "icons": {
+      "type": "section-icons",
+      "blocks": {
+        "icons-0": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-basket-return",
+            "icon_color": "#abda92",
+            "title": "Easy Return",
+            "text": "<p>Return within 30 days receive a full refund.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-1": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-shipment-world",
+            "icon_color": "#92c1da",
+            "title": "Worldwide shipping",
+            "text": "<p>Ship anywhere, rates available at checkout.<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        },
+        "icons-2": {
+          "type": "icon_block",
+          "settings": {
+            "icon_name": "icon-leaf",
+            "icon_color": "#f4a482",
+            "title": "Friendly Support",
+            "text": "<p>Contact us anytime at hello@manifect.com<\/p>",
+            "link_text": "",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "icons-0",
+        "icons-1",
+        "icons-2"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--accent",
+        "icon_size": "icon--medium",
+        "icon_alignment": "icon--top",
+        "layout": "grid--stacked",
+        "align_text": "text-center"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "tabs",
+    "8059b09b-cf19-4e4a-8add-c9434fb5182e",
+    "e279fc76-d1e5-4cd6-aafb-5ac9e45669b3",
+    "cbd95c17-c233-437b-bd30-52e278be2be7",
+    "1665773874a74848ba",
+    "product-grid",
+    "icons"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sections": {
+    "main": {
+      "type": "list-collections",
+      "settings": {
+        "style": "collection",
+        "aspect_ratio": 1,
+        "grid_collection": 2,
+        "grid": 4,
+        "rows": 3
+      }
+    },
+    "1664459547976316a4": {
+      "type": "section-recent-products",
+      "settings": {
+        "bg": "palette--light bg--neutral",
+        "product_recently_heading": "You may miss this",
+        "grid": 3,
+        "product_recently_limit": 6,
+        "product_recently_minimum": 3
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1664459547976316a4"
+  ]
+}
